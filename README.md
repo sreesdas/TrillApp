@@ -1,6 +1,6 @@
 # Flutter TrillApp
 
-TrillApp is made for flutter create contest unser 5KB of dart code. The purpose of the app is to share the data between devices offline using sound. Suppose, you are boarding a shuttle/bus/train, how easy it will be for you and the driver to hop you on using sound without internet on as single click.
+TrillApp is made for flutter create contest under 5KB of dart code. The purpose of the app is to share the data between devices offline using sound. Suppose, you are boarding a shuttle/bus/train, how easy it will be for you and the driver to hop you on using sound without internet on as single click.
 
 There can be many use cases where you want to send some bytes of data but don't have any internet connection. So, Trill App is for you. It doesn't require any internet. For the purpose of explaining it, I have made this chat app where you can send some bytes of message using sound to other nearby devices.
 
